@@ -6,4 +6,4 @@ I'm just starting to learn Python and decided to do some tasks using loops.The t
 Tasks are not mine, I did not invent them! But I would like someone to look at it and say what I am doing wrong and what I can improve.
 
 
-A separate file contains content for all tasks 
+A separate file contains content for all tasks. 
