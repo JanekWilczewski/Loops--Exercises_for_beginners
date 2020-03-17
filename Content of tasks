@@ -1,0 +1,578 @@
+Good luck! Have fun :D
+
+
+Task 1 -----------------------------------------------------------------------
+
+ Use any loop to display the following string of numbers:
+
+ 0
+ 1
+ 2
+ 3
+ 4
+
+Task 3 -----------------------------------------------------------------------
+
+ Use loops to display a series of numbers:
+ 6
+ 12
+ 18
+ 24
+ 30
+
+Task 4 -----------------------------------------------------------------------
+
+ Use loops to display a series of numbers:
+ 0
+ 1
+ 3
+ 6
+ 10
+
+Task 5 -----------------------------------------------------------------------
+
+ Use loops to display a series of numbers:
+ 53
+ 54
+ 55
+ 56
+ 57
+
+Task 6 -----------------------------------------------------------------------
+
+ Use the loop and if statement to display the following string:
+
+ 1
+ 2
+ 3
+ 4
+ I found 5!
+ 6
+ 7
+
+Task 7 -----------------------------------------------------------------------
+
+ Please use loop for perform string below
+
+ 1 a
+ 1 b
+ 1 c
+ 2 a
+ 2 b
+ 2 c
+ 3 a
+ 3 b
+ 3 c
+
+Task 8 -----------------------------------------------------------------------
+
+ Please create list [1, 2, 3, 4, 5, 6, 7, 8] without using loops
+
+Task 9 -----------------------------------------------------------------------
+
+ Please create a string from the list created by the function range() so that it displays a string of numbers only to 5.
+
+ My list: [1, 2, 3, 4, 5, 6, 7, 8]
+ ----------------
+ 1
+ 2
+ 3
+ 4
+
+Task 10 -----------------------------------------------------------------------
+
+ Please created a while loop, that will display an even number string
+
+ 4
+ 6
+ 8
+ 10
+ 12
+ 14
+ 16
+ 18
+
+Task 11 -----------------------------------------------------------------------
+
+ Use loops to display the given list. Finally display the message.
+
+ AA
+ BBB
+ CCC
+ DDDDD
+ List is end!
+
+Task 12 -----------------------------------------------------------------------
+
+ Please find all number in the range (1,20), that divide completely by 3.
+ 3
+ 6
+ 9
+ 12
+ 15
+ 18
+
+Task 13 -----------------------------------------------------------------------
+
+ Please generate a code from 1 to 21, with a change every, using the while loop.
+
+Task 14 -----------------------------------------------------------------------
+
+ Please generate a number strings from 10 to 0, using the while loop.
+ 10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 4
+ 3
+ 2
+ 1
+ 0
+
+Task 15 -----------------------------------------------------------------------
+
+ Please generate string number from 4 to 8 using the while loop. Please define this loop as functions.
+
+ 4
+ 5
+ 6
+ 7
+ 8
+
+Task 16 -----------------------------------------------------------------------
+
+ Please generate numbers from 10 to 0 and finally there will be a message: "The rocket is taking off!"
+
+Task 17 -----------------------------------------------------------------------
+
+ Pleae use the loop for, combine the two lists according to the pattern.
+
+ lista1 = ["KKKK", "GGGG", "HHHH"]
+ lista2 = ["563-12", "363-AB"]
+
+ KKKK 563-12
+ KKKK 363-AB
+ -----------
+ GGGG 563-12
+ GGGG 363-AB
+ -----------
+ HHHH 563-12
+ HHHH 363-AB
+ -----------
+
+Task 18 -----------------------------------------------------------------------
+
+ Please write the code that will ask the user to write the letters n or c.
+ If the user enters the correct letter, the program should generate the message: "Thank you!".
+ If the user types in the wrong letter, the program is to draw his attention.
+ You do not need to create loops in this task.
+
+Task 19 -----------------------------------------------------------------------
+
+ Please write the code in which the user will be able to enter the letters until successful until he write correct letters.
+ Based on the previous task.
+
+Task 20 -----------------------------------------------------------------------
+
+ Please generate the string numbers 17,21,18 when after each generated number will be inserted a comment:"another variable", Please use a loop for.
+
+ 17
+ another variable
+ 21
+ another variable
+ 18
+ another variable
+
+Task 21 -----------------------------------------------------------------------
+
+ Add "AAA" to the loop from the previous task.
+
+ 17
+ another variable
+ AAA
+ 21
+ another variable
+ AAA
+ 18
+ another variable
+ AAA
+
+Task 22 -----------------------------------------------------------------------
+
+ Generate the following string using two lists and a loop.
+
+ 17
+ Adrian
+ Paula
+ 21
+ Adrian
+ Paula
+ 18
+ Adrian
+ Paula
+
+Task 23 -----------------------------------------------------------------------
+
+ Please, use the for loop to write the code that will ask you to enter three values. After entering these values, they are to be summarized.
+
+ Enter value:
+ 4
+ Enter value:
+ 2
+ Enter value:
+ 2
+ The sum of entered values to: 8
+
+Task 24 -----------------------------------------------------------------------
+
+ Use a for loop to display the elements of a linked list according to the pattern shown.
+
+ R = [["CA","NV","UT"], ["NJ","NY","DE"]]
+
+ CA
+ NV
+ UT
+ NJ
+ NY
+ DE
+
+Task 25 -----------------------------------------------------------------------
+
+ Please, use the for loop to write the code that will ask you to enter six values. After entering these values, the program is to summarize how many times the value 5 has been entered.
+
+ Enter any number from 1 to 10:: 2
+ Enter any number from 1 to 10:: 3
+ Enter any number from 1 to 10: 5
+ Enter any number from 1 to 10: 5
+ Enter any number from 1 to 10: 5
+ User has selected 5 3times.
+
+Task 26 -----------------------------------------------------------------------
+
+ Please create a loop that will generate the following pattern.
+
+ *
+ **
+ ***
+ ****
+
+Task 27 -----------------------------------------------------------------------
+
+ Using a loop, please write the word "Poland" like this:
+
+ P
+ o
+ l
+ a
+ n
+ d
+
+Task 28 -----------------------------------------------------------------------
+
+ Using loops, write the words as follows:
+
+ one
+ two
+ three
+
+Task 29 -----------------------------------------------------------------------
+
+ Using loops, write the words as follows:
+
+ Welcome!
+ Welcome!
+ Welcome!
+ Welcome!
+
+Task 30 -----------------------------------------------------------------------
+
+ Using loops, please write names so that the program shows how many letters each name has.
+
+ Adrian 6
+ Piotrek 7
+ Ewa 3
+ Bonifacy 8
+
+Task 31 -----------------------------------------------------------------------
+
+ Using loops, enter names so that their next number appears in the list.
+
+ 0 Adrian
+ 1 Piotrek
+ 2 Ewa
+
+Task 32 -----------------------------------------------------------------------
+
+ Using the for-if loop, please write numbers from 1 to 10, then construct the if statement so that the numbers 9, 8 and 3 disappear from the list.
+
+ 1
+ 2
+ 4
+ 5
+ 7
+ 10
+
+Task 33 -----------------------------------------------------------------------
+
+ Using the while loop, please write numbers from 1 to 5, then construct the if statement so that the number 2 disappears from the list.
+
+ 1
+ 3
+ 4
+ 5
+
+Task 34 -----------------------------------------------------------------------
+
+ Use the while loop to generate the following string of numbers.
+
+ 1
+ 2
+ 3
+ 4
+ 5
+
+Task 35 -----------------------------------------------------------------------
+
+ Please use the while loop and the second time using the for loop to generate the following string of numbers from the list: list = [42, 4, 9, 6, 14, 43]
+
+ list = [42, 4, 9, 6, 14, 43]
+
+ 42
+ 4
+ 9
+ 6
+ 14
+ 43
+
+Task 37 -----------------------------------------------------------------------
+
+ Please generate a string of numbers from 0 to 5 with a while loop and then with a for loop.
+
+ 5
+ 4
+ 3
+ 2
+ 1
+ 0
+
+Task 38 -----------------------------------------------------------------------
+
+ Please build a calculator using a while loop that will summarize the numbers entered. If we enter zero, the calculator is to end the procedure and exit the loop.
+
+ Enter the next value.
+ If you enter 0, script stop.
+ Current Sum 0
+ Enter a value:3
+ Current Sum 3.0
+ Enter a value:5
+ Current Sum 8.0
+ Enter a value:0
+ Script stopped.
+ Total value of the entered numbers is 8.0
+
+Task 39 -----------------------------------------------------------------------
+
+ Please, use a loop to build a series of numbers:
+
+ 3
+ 6
+ 9
+ 12
+ 15
+ 18
+
+Task 40 -----------------------------------------------------------------------
+
+ Please use a for loop to build a string of numbers.
+
+ 0
+ 1
+ 2
+ 3
+ End!
+
+Task 41 -----------------------------------------------------------------------
+
+ Please use a for loop to build a string of numbers.
+
+ AAA 1
+ AAA 2
+ AAA 3
+ BBB 1
+ BBB 2
+ BBB 3
+
+Task 42 -----------------------------------------------------------------------
+
+ Please build a string of numbers ending with the message using the while loop.
+
+ Next number: 0
+ Next number: 3
+ Next number: 6
+ Next number: 9
+ Next number: 12
+ Next number: 15
+ End now!
+
+Task 43 -----------------------------------------------------------------------
+
+ Write a program using a while loop that will add integers to the string. The user must enter a number to complete the string, e.g. 3. The program will calculate: 1 + 2 + 3 = 6.
+
+ Enter a value: 21
+ The sum of the numbers is: 231
+
+Task 44 -----------------------------------------------------------------------
+
+ Write a program using a while loop that repeats the word HURA! as many times as the user asks.
+
+ How much time do you want to say HURA!: 2
+ HURA!
+ HURA!
+ End of this...
+
+Task 45 -----------------------------------------------------------------------
+
+ Please, use the for loop to display indexes of the list k = ['Agaton', 'Zapiecek', 'Bacon', 'Renata', 'Wojtek'].
+
+ 1 Agaton
+ 2 Renata
+ 3 Wojtek
+ 4 bekon
+ 5 zapiecek
+
+Task 46 -----------------------------------------------------------------------
+
+ Use while True loop: create the following string.
+
+ 0
+ 1
+ 2
+ 3
+ 4
+
+Task 47 -----------------------------------------------------------------------
+
+ Create the following string ending with the comment using a while loop.
+
+ 0
+ 1
+ 2
+ 3
+ 4
+ We got to number: 5
+
+Task 48 -----------------------------------------------------------------------
+
+ Use a for loop to create the following string.
+
+ 1
+ 2
+ 3
+ 4
+ Janek!
+
+Task 49 -----------------------------------------------------------------------
+
+ Use the for loop to create the following string.
+
+ Welcome 1 time
+ Welcome 2 time
+ Welcome 3 time
+
+Task 52 -----------------------------------------------------------------------
+
+ Use a loop to write a string consisting of 5 multiples of 6
+
+ 6
+ 12
+ 18
+ 24
+ 30
+
+Task 53 -----------------------------------------------------------------------
+
+ Please use the while loop and the second time using the for loop to display the following sequence of numbers.
+
+ h = 1
+ h = 2
+ h = 3
+ h = 4
+ h = 5
+ h = 6
+
+Task 54 -----------------------------------------------------------------------
+
+ Use the while loop to build a calculator that calculates the integer factor value.
+
+ Enter a value: 3
+ The factorial is: 6
+
+Task 55 -----------------------------------------------------------------------
+
+ Write a program that displays the words: ARA, BereKA, GONabEACH. It will then ask the user which word to spell to finally spell the selected word.
+
+ Here are the words to choose: ARA, BereKA, GONabEACH.
+ Choose the word number you want to spell.
+     Enter a number 1, 2 or 3:
+ You choose that word: BereKA
+ B
+ e
+ r
+ e
+ K
+ A
+
+Task 56 -----------------------------------------------------------------------
+
+ Use the for loop from the list: a = ("ARA", "BereKA", "GONabEACH") to display the available words with their ordinal numbers.
+
+ These are the words to choose from:
+ 1 ARA
+ 2 BereKA
+ 3 GONabEACH
+
+Task 57 -----------------------------------------------------------------------
+
+ Please display the words with their ordinal numbers using a for loop from the list: k = ['salad','pasta','pizza','nachos'].
+
+ 1 salad
+ 2 pasta
+ 3 pizza
+ 4 nachos
+
+Task 58 -----------------------------------------------------------------------
+
+ Please use the for loop to display the following string
+
+ 1
+ Knock
+ 2
+ Knock Knock
+ 3
+ Knock Knock Knock
+ 4
+ Knock Knock Knock Knock
+
+Task 59 -----------------------------------------------------------------------
+
+ Please, use the for loop from the list: g = ['Adrian1', 'Adrian2', 'Adrian3', 'Adrian4'], display the following string:
+
+ 1 Adrian1
+ 2 Adrian2
+ 3 Adrian3
+ 4 Adrian4
+
+Task 60 -----------------------------------------------------------------------
+
+ Please create a function from the previous task so that it works on all lists entered.
+
+
+
+
+
+
+
+
+
